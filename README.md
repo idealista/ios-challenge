@@ -7,17 +7,21 @@ Think you’re up for the challenge? We could really use your skills to create t
 
 Here at idealista, we’re all about clean, maintainable code and solid testable components. If you love turning great ideas into reality, this might just be the perfect challenge for you!
 
+
 ### 🚀 Getting Started
 1. Read the **minimum requirements**.
 2. Fork this repository.
 3. Start coding and have fun!
 
+
 ### 📱 Task
 Build a small app that allows users to browse through a list of ads and view ad details on a separate screen.
+
 
 ### 🌐 API
 Ads listing: https://run.mocky.io/v3/31108b3e-0b45-4c3d-a7a9-48d3e0e7f2ec
 Ad detail information: https://run.mocky.io/v3/a63ed943-348f-40f3-b84a-b7f161d6b067  *Please note: the response is always the same*.
+
 
 ### ✅ Minimum Requirements
 - The app must run on **Xcode 16.0** and be compatible with **iOS 15** through **iOS 18**.
@@ -30,6 +34,7 @@ Ad detail information: https://run.mocky.io/v3/a63ed943-348f-40f3-b84a-b7f161d6b
 - Use the provided **API endpoints** to fetch and display ad data.
 - Only use **third-party libraries** if absolutely necessary. We value clean and lightweight implementations.
 
+
 ### 🎁 Optional Bonus Tasks (For extra kudos!)
 1. Implement **pull-to-refresh** functionality on the listing screen.
 2. **Localize** the app into at least one additional language.
@@ -40,6 +45,7 @@ Ad detail information: https://run.mocky.io/v3/a63ed943-348f-40f3-b84a-b7f161d6b
 7. Add **iPad support** with a responsive layout.
 8. Show the location of the ad using a **map** view, indicating its position.
 9. Feel free to go beyond the requirements and **improve the app** in any way you think is best — we love creativity!
+
 
 ### 🎉 Once You’ve Finished
 1. Email us at [rrhh@idealista.com](mailto:rrhh@idealista.com) with your repository link you'd like our iOS team to review, or send the project folder (including the `.git` directory).
