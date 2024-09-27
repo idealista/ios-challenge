@@ -1,5 +1,3 @@
-![](https://st3.idealista.com/static/common/img/idealista.svg)
-
 # idealista iOS Challenge
 The idealista iOS team is on the lookout for a new teammate! We’re on a mission to find someone who’s ready to dive into the exciting (and sometimes wild) world of iOS development. From building cool new features to squashing bugs, crafting pixel-perfect UIs, and making sure everything runs smoothly and securely — we’ve got plenty to keep you on your toes.
 
