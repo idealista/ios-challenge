@@ -19,6 +19,11 @@ Build a small app that allows users to browse through a list of ads and view ad 
 
 &nbsp;
 
+### 🌐 API
+Ads listing: https://run.mocky.io/v3/5d8c36bc-f4be-4029-983d-908953d13d96
+Ad detail information: https://run.mocky.io/v3/b8540047-3947-4c69-9270-57b51ca563cd *Please note: the response is always the same*.
+
+&nbsp;
 
 ### ✅ Minimum Requirements
 - The app must run on **Xcode 16.0** and be compatible with **iOS 15** through **iOS 18**.
