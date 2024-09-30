@@ -19,11 +19,6 @@ Build a small app that allows users to browse through a list of ads and view ad 
 
 &nbsp;
 
-### 🌐 API
-- Ads listing: https://tvsofa.app/sample/list.json
-- Ad detail information: https://tvsofa.app/sample/detail.json  *Please note: the response is always the same*.
-
-&nbsp;
 
 ### ✅ Minimum Requirements
 - The app must run on **Xcode 16.0** and be compatible with **iOS 15** through **iOS 18**.
