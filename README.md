@@ -52,5 +52,5 @@ Build a small app that allows users to browse through a list of ads and view ad 
 &nbsp;
 
 ### 🎉 Once You’ve Finished
-1. Email us at [rrhh@idealista.com](mailto:rrhh@idealista.com) with your repository link you'd like our iOS team to review, or send the project folder (including the `.git` directory).
+1. Email us at [tlfernandez@idealista.com](mailto:tlfernandez@idealista.com) with your repository link you'd like our iOS team to review, or send the project folder (including the `.git` directory).
 2. Celebrate with a beer after a well done job! 🍺
