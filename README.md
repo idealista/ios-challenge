@@ -20,8 +20,8 @@ Build a small app that allows users to browse through a list of ads and view ad 
 &nbsp;
 
 ### 🌐 API
-- Ads listing: https://run.mocky.io/v3/31108b3e-0b45-4c3d-a7a9-48d3e0e7f2ec
-- Ad detail information: https://run.mocky.io/v3/a63ed943-348f-40f3-b84a-b7f161d6b067  *Please note: the response is always the same*.
+- Ads listing: https://tvsofa.app/sample/list.json
+- Ad detail information: https://tvsofa.app/sample/detail.json  *Please note: the response is always the same*.
 
 &nbsp;
 
