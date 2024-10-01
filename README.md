@@ -20,8 +20,8 @@ Build a small app that allows users to browse through a list of ads and view ad 
 &nbsp;
 
 ### 🌐 API
-- List: https://idealista.github.io/ios-challenge/list.json  
-- Detail: https://idealista.github.io/ios-challenge/detail.json *Please note: the response is always the same*.
+- List: [https://idealista.github.io/ios-challenge/list.json](https://idealista.github.io/ios-challenge/list.json)  
+- Detail: [https://idealista.github.io/ios-challenge/detail.json](https://idealista.github.io/ios-challenge/detail.json) *Please note: the response is always the same*.
 
 &nbsp;
 
