@@ -26,7 +26,7 @@ Build a small app that allows users to browse through a list of ads and view ad 
 &nbsp;
 
 ### ✅ Minimum Requirements
-- The app must run on **Xcode 16.0** and be compatible with **iOS 15** through **iOS 18**.
+- The app must run on **Xcode 16.0** and be compatible with **iOS 16** through **iOS 18**.
 - The app should include at least **two screens**:
   - A **listing screen** displaying a collection of ads.
   - A **detail screen** for viewing individual ad information.
