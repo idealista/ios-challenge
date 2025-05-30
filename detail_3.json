@@ -1,6 +1,6 @@
 {
-  "adid": 1,
-  "price": 1195000.0,
+  "adid": 3,
+  "price": 1100000.0,
   "priceInfo": {
     "amount": 1195000.0,
     "currencySuffix": "€"
@@ -13,36 +13,56 @@
   "multimedia": {
     "images": [
       {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/aa/c2/63/1217034679.webp",
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/29/40/71/713387969.webp",
         "tag": "facade"
       },
       {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fd/b1/c9/1217034626.webp",
-        "tag": "corridor"
-      },
-      {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5a/4f/09/1217034664.webp",
-        "tag": "unknown"
-      },
-      {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cc/af/8b/1217034671.webp",
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ae/87/a3/713388196.webp",
         "tag": "facade"
       },
       {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/12/82/2a/1217034660.webp",
-        "tag": "details"
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/15/73/da/713388261.webp",
+        "tag": "facade"
       },
       {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/10/c3/9a/1217034652.webp",
-        "tag": "bedroom"
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/07/6c/05/713388388.webp",
+        "tag": "facade"
       },
       {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/90/79/85/1217034663.webp",
-        "tag": "bathroom"
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6d/bb/8c/713388405.webp",
+        "tag": "facade"
       },
       {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/68/1c/59/1217034665.webp",
-        "tag": "bedroom"
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8f/70/fa/713388495.webp",
+        "tag": "garden"
+      },
+      {
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/89/6d/3e/713388563.webp",
+        "tag": "facade"
+      },
+      {
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/bf/e4/1a/713388614.webp",
+        "tag": "garden"
+      },
+      {
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8a/79/5f/713388700.webp",
+        "tag": "garden"
+      },
+      {
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/04/18/9f/713388933.webp",
+        "tag": "garden"
+      },
+      {
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/93/89/a7/713389046.webp",
+        "tag": "swimmingPool"
+      },
+      {
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7d/a3/44/713389128.webp",
+        "tag": "hall"
+      },
+      {
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/43/ec/de/713389170.webp",
+        "tag": "hall"
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
-  "adid": 1,
-  "price": 1195000.0,
+  "adid": 4,
+  "price": 889000.0,
   "priceInfo": {
     "amount": 1195000.0,
     "currencySuffix": "€"
@@ -13,35 +13,23 @@
   "multimedia": {
     "images": [
       {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/aa/c2/63/1217034679.webp",
-        "tag": "facade"
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c8/47/16/1270573489.webp",
+        "tag": "views"
       },
       {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fd/b1/c9/1217034626.webp",
-        "tag": "corridor"
-      },
-      {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5a/4f/09/1217034664.webp",
-        "tag": "unknown"
-      },
-      {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cc/af/8b/1217034671.webp",
-        "tag": "facade"
-      },
-      {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/12/82/2a/1217034660.webp",
-        "tag": "details"
-      },
-      {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/10/c3/9a/1217034652.webp",
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c4/2d/1a/1270592862.webp",
         "tag": "bedroom"
       },
       {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/90/79/85/1217034663.webp",
-        "tag": "bathroom"
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/bb/dc/cf/1270592873.webp",
+        "tag": "unknown"
       },
       {
-        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/68/1c/59/1217034665.webp",
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b6/0c/b3/1270592874.webp",
+        "tag": "bedroom"
+      },
+      {
+        "url": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/87/c7/dd/1270592682.webp",
         "tag": "bedroom"
       }
     ]
